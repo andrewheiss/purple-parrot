@@ -50,4 +50,29 @@ knitr::opts_chunk$set(
 # Introduction {.hide}
 :::
 
+# Structure
+
+In order to ensure coherence within each section and across all sections please follow this structure when drafting your chapter:
+
+1. Present well-known human rights ideas and problematize their conceptualization and measurement, particularly as it relates to quantification, addressing:
+
+   - What questions have scholars asked about this concept (e.g., repression)?
+   - How has this concept traditionally been measured or operationalized?
+   - What have been the core findings of research in this vein?
+   - What advancements did scholars make in the research area's early years and what gaps or questions did they leave open?
+
+2. Give a play-by-play of how you planned and executed your novel data collections, including:
+
+   - What options did you face?
+   - What judgment calls did you make about what was the best (and most feasible) data to collect?
+   - Essentially, how and why did you build your data?
+
+3. Showcase key findings from your analyses and discuss what we know now that we could not have known otherwise.
+
+4. Lay out next steps/outline an agenda for future research, including:
+
+   - Acknowledgement of shortcomings in the existing data collection effort
+   - Suggestions for new concepts to be measured
+   - Suggestions for improved ways of capturing other related concepts using similar techniques.
+
 # References
