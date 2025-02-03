@@ -1,0 +1,53 @@
+---
+title: "Human Rights Repression through Restrictions on Civil Society"
+subtitle: "Chapter for *Innovations in Human Rights: Concepts, Data, and Measurement*"
+date: 2025-02-03
+author:
+- name: Andrew Heiss
+  affiliations: 
+    - id: gsu
+      name: Georgia State University
+      department: Andrew Young School of Policy Studies, Department of Public Management and Policy
+      address: "55 Park Place NE, #464"
+      city: Atlanta
+      region: GA
+      country: USA
+      postal-code: 30303
+  orcid: 0000-0002-3948-3914
+  url: https://www.andrewheiss.com
+  email: aheiss@gsu.edu
+
+abstract: |
+  Research on human rights repression often focuses on how states use physical violence to protect legitimacy and curb challenges to state power. Such repression tends to draw ire from the international community and can be counterproductive at achieving its aims. To avoid this, states employ subtler and less violent forms of repression designed to demobilize popular advocacy and capture the benefits of civil society organizations. This chapter explores how authoritarian regimes use nonviolent administrative crackdown through anti-civil society laws to limit and co-opt domestic and international civil society. Because it looks like more standard domestic regulation, administrative crackdown attracts far less international outcry and condemnation, while accomplishing similar aims as violent repression. Anti-civil society laws can even act as a "canary in the coal mine" and signal future physical repression. This is a significant argument, suggesting that previous research may undercount repression by only looking at physical violence rather than more innocuous legal and policy-oriented avenues of repression. The author recalls their experience exploring this more hidden form of repression, discusses the challenge of collecting and harmonizing administrative data from different national jurisdictions and measuring different forms of de jure and de facto restrictions, presents key results, and outlines avenues for future research.
+
+# bibliography: references.bib
+csl: csl/chicago-author-date.csl
+
+# doi: 10.31235/osf.io/9gmhp
+# doi-title: SocArXiv preprint
+
+params:
+  wordcount: |
+    <strong>{{< words-sum body-ref >}} total words</strong>: {{< words-body >}} in the body • {{< words-ref >}} in the references
+---
+
+::: {.content-visible when-meta="wordcount-banner"}
+{{< include _extensions/andrewheiss/wordcount/banner.html >}}
+:::
+
+```{r}
+#| label: setup
+#| include: false
+
+knitr::opts_chunk$set(
+  echo = FALSE, include = FALSE, warning = FALSE, message = FALSE,
+  fig.width = 6, fig.height = (6 * 0.618), fig.retina = 3,
+  out.width = "100%", fig.align = "center"
+)
+```
+
+::: {.content-visible when-format="html"}
+# Introduction {.hide}
+:::
+
+# References
