@@ -21,8 +21,8 @@ format:
     theme: 
       - zephyr
       - html/custom.scss
-    # MetBrewer::met.brewer("Archambault")[2]
-    title-block-banner: "#381a61"
+    # MoMAColors::moma.colors("ustwo")[6]
+    title-block-banner: "#008d98"
     include-in-header:
       - text: |
           <style type="text/css">
@@ -55,7 +55,7 @@ format:
     mainfontoptions:
       - "Numbers=Proportional"
       - "Numbers=OldStyle"
-    sansfont: "Inter"
+    sansfont: "Afacad Flux"
     mathfont: "Libertinus Math"
     # linestretch: 1.05
 
