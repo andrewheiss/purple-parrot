@@ -1,20 +1,26 @@
+# Human Rights Repression through Restrictions on Civil Society
 
 
 <!-- README.md is generated from README.qmd. Please edit that file -->
 
-# Human Rights Repression through Restrictions on Civil Society
+[Andrew Heiss](https://www.andrewheiss.com) • Georgia State University
+
+------------------------------------------------------------------------
 
 <!-- badges: start -->
 
+[![HTML preprint](https://img.shields.io/badge/HTML%20preprint-FF851B.png)](https://stats.andrewheiss.com/purple-parrot/) [![PDF preprint](https://img.shields.io/badge/PDF%20preprint-3D9970.png)](https://stats.andrewheiss.com/purple-parrot/heiss-hr-civil-society-repression-chapter.pdf) [![SocArXiv Preprint](https://img.shields.io/badge/SocArXiv%20preprint-10.31235%2Fosf.io%2Fwvecz__v1-blue)](https://doi.org/10.31235/osf.io/wvecz_v1)
 <!-- badges: end -->
 
-[Andrew Heiss](https://www.andrewheiss.com/) • Andrew Young School of Policy Studies • Georgia State University
+------------------------------------------------------------------------
+
+> Andrew Heiss, “Human Rights Repression through Restrictions on Civil Society”
 
 ------------------------------------------------------------------------
 
 ## Abstract
 
-Research on human rights repression often focuses on how states use physical violence to protect legitimacy and curb challenges to state power. Such repression tends to draw ire from the international community and can be counterproductive at achieving its aims. To avoid this, states employ subtler and less violent forms of repression designed to demobilize popular advocacy and capture the benefits of civil society organizations. This chapter explores how authoritarian regimes use nonviolent administrative crackdown through anti-civil society laws to limit and co-opt domestic and international civil society. Because it looks like more standard domestic regulation, administrative crackdown attracts far less international outcry and condemnation, while accomplishing similar aims as violent repression. Anti-civil society laws can even act as a “canary in the coal mine” and signal future physical repression. This is a significant argument, suggesting that previous research may undercount repression by only looking at physical violence rather than more innocuous legal and policy-oriented avenues of repression. The author recalls their experience exploring this more hidden form of repression, discusses the challenge of collecting and harmonizing administrative data from different national jurisdictions and measuring different forms of de jure and de facto restrictions, presents key results, and outlines avenues for future research.
+Research on human rights repression often focuses on how states use physical violence to protect legitimacy and curb challenges to state power. Such repression tends to draw ire from the international community and can be counterproductive at achieving its aims. To avoid this, states employ subtler and less violent forms of repression designed to demobilize popular advocacy and capture the benefits of civil society organizations. This chapter explores how authoritarian regimes use nonviolent administrative crackdown through anti-civil society laws to limit and co-opt domestic and international civil society. Because it looks like more standard domestic regulation, administrative crackdown attracts far less international outcry and condemnation, while accomplishing similar aims as violent repression. Anti-civil society laws can even act as a “canary in the coal mine” and signal future physical repression. This is a significant argument, suggesting that previous research may undercount repression by only looking at physical violence rather than more innocuous legal and policy-oriented avenues of repression. The author recalls their experience exploring this more hidden form of repression, discusses the challenge of collecting and harmonizing administrative data from different national jurisdictions and measuring different forms of *de jure* and *de facto* restrictions, presents key results, and outlines avenues for future research.
 
 ## 🟣🦜: Note on “purple parrot” project name
 

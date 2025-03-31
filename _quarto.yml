@@ -36,11 +36,17 @@ format:
       - format: hikmah-pdf
         text: PDF version
         icon: file-pdf
+      - format: docx
+        text: Word version
+        icon: file-word
 
     other-links:
       - text: GitHub repository
         href: https://github.com/andrewheiss/purple-parrot/
         icon: github
+      - text: SocArXiv preprint
+        href: https://doi.org/10.31235/osf.io/wvecz_v1
+        icon: link-45deg
 
     knitr:
       opts_chunk:

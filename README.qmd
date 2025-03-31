@@ -1,4 +1,5 @@
 ---
+title: "Human Rights Repression through Restrictions on Civil Society"
 format: 
   gfm: 
     wrap: preserve
@@ -21,19 +22,23 @@ title <- yaml_metadata$title
 abstract <- yaml_metadata$abstract
 ```
 
-# `r title`
+[Andrew Heiss](https://www.andrewheiss.com) • Georgia State University
+
+---
 
 <!-- badges: start -->
-
+[![HTML preprint](https://img.shields.io/badge/HTML%20preprint-FF851B)](https://stats.andrewheiss.com/purple-parrot/) [![PDF preprint](https://img.shields.io/badge/PDF%20preprint-3D9970)](https://stats.andrewheiss.com/purple-parrot/heiss-hr-civil-society-repression-chapter.pdf) [![SocArXiv Preprint](https://img.shields.io/badge/SocArXiv%20preprint-10.31235%2Fosf.io%2Fwvecz__v1-blue)](https://doi.org/10.31235/osf.io/wvecz_v1)
 <!-- badges: end -->
 
-[Andrew Heiss](https://www.andrewheiss.com/) • Andrew Young School of Policy Studies • Georgia State University
+---
+
+> Andrew Heiss, “`{r} title`”
 
 ---
 
 ## Abstract
 
-`r abstract`
+`{r} I(abstract)`
 
 
 ## `r emoji_glue(":purple_circle::parrot:")`: Note on "purple parrot" project name

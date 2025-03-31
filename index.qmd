@@ -23,8 +23,8 @@ abstract: |
 bibliography: bib/references.json
 csl: bib/apa.csl
 
-# doi: 10.31235/osf.io/9gmhp
-# doi-title: SocArXiv preprint
+doi: 10.31235/osf.io/wvecz_v1
+doi-title: SocArXiv preprint
 
 params:
   wordcount: |
