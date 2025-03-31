@@ -10,6 +10,14 @@ $link-hover-color: #f06a63;
 
 /*-- scss:rules --*/
 
+.csl-bib-body {
+    font-size: 0.9em;
+}
+
+div.hanging-indent {
+    margin-left: 0;
+}
+
 #title-block-header {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     margin-bottom: 2em;
@@ -17,7 +25,7 @@ $link-hover-color: #f06a63;
 }
 
 .thanks-section {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  margin-bottom: 2em;
-  padding-bottom: 2em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 2em;
+    padding-bottom: 2em;
 }
