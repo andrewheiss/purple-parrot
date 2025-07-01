@@ -31,6 +31,9 @@ format:
           }
           </style>
 
+    template-partials: 
+      - "html/title-metadata.html"
+
     format-links:
       - html
       - format: hikmah-pdf
