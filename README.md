@@ -9,7 +9,7 @@
 
 <!-- badges: start -->
 
-[![HTML preprint](https://img.shields.io/badge/HTML%20preprint-FF851B.png)](https://stats.andrewheiss.com/purple-parrot/) [![PDF preprint](https://img.shields.io/badge/PDF%20preprint-3D9970.png)](https://stats.andrewheiss.com/purple-parrot/heiss-hr-civil-society-repression-chapter.pdf) [![SocArXiv Preprint](https://img.shields.io/badge/SocArXiv%20preprint-10.31235%2Fosf.io%2Fwvecz__v1-blue)](https://doi.org/10.31235/osf.io/wvecz_v1)
+[![HTML preprint](https://img.shields.io/badge/HTML%20preprint-FF851B.png)](https://stats.andrewheiss.com/purple-parrot/) [![PDF preprint](https://img.shields.io/badge/PDF%20preprint-3D9970.png)](https://stats.andrewheiss.com/purple-parrot/heiss-hr-civil-society-repression-chapter.pdf) [![SocArXiv Preprint](https://img.shields.io/badge/SocArXiv%20preprint-10.31235%2Fosf.io%2Fwvecz__v3-blue)](https://doi.org/10.31235/osf.io/wvecz_v3)
 <!-- badges: end -->
 
 ------------------------------------------------------------------------
@@ -20,7 +20,7 @@
 
 ## Abstract
 
-Research on repression often focuses on how states use physical violence to curb challenges to state power. Such repression tends to draw criticism from the international community and can be counterproductive to shoring up power and legitimacy. To avoid this, states may employ subtler and less violent forms of repression designed to demobilize popular advocacy and capture the benefits of civil society organizations. This chapter explores how authoritarian regimes use nonviolent administrative crackdown through anti-civil society laws to limit and co-opt domestic and international civil society. Because it looks like more standard domestic regulation, administrative crackdown attracts far less international outcry and condemnation, while accomplishing similar aims as violent repression. Anti-civil society laws can even act as a “canary in the coal mine” and signal future physical repression. By only looking at physical violence rather than more innocuous legal and policy-oriented action, existing research undercounts repression. The author recalls his experience exploring this more hidden form of repression, discusses the challenge of collecting and harmonizing administrative data from different national jurisdictions and measuring different forms of *de jure* and *de facto* restrictions, presents key results, and outlines avenues for future research.
+Research on repression often focuses on how states use physical violence to curb challenges to their power. Such repression can backfire—drawing criticism from abroad and weakening power at home. To avoid this, states may employ subtler and less violent forms of repression to demobilize popular advocacy. This chapter explores how authoritarian regimes use nonviolent administrative crackdown through anti-civil society laws to limit and co-opt domestic and international civil society groups. Because it looks like standard regulation, administrative crackdown attracts far less international outcry, while accomplishing similar aims as violent repression. Anti-civil society laws can even signal future physical repression. But by focusing on physical violence and neglecting bureaucratic actions, existing research undercounts repression. The author recalls his experience exploring this more hidden form of repression, discusses the challenge of collecting and harmonizing administrative data from different countries, and explains how he measures various *de jure* and *de facto* restrictions.
 
 ## 🟣🦜: Note on “purple parrot” project name
 

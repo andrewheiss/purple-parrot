@@ -48,7 +48,7 @@ format:
         href: https://github.com/andrewheiss/purple-parrot/
         icon: github
       - text: SocArXiv preprint
-        href: https://doi.org/10.31235/osf.io/wvecz_v1
+        href: https://doi.org/10.31235/osf.io/wvecz_v3
         icon: link-45deg
 
     knitr:
