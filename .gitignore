@@ -19,3 +19,5 @@ admin/*
 /.luarc.json
 
 /.quarto/
+
+**/*.quarto_ipynb
