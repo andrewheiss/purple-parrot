@@ -1,7 +1,7 @@
 ---
 title: "Measuring Repression through Restrictions on Civil Society"
 subtitle: "Chapter for *Innovations in Human Rights: Concepts, Data, and Measurement*"
-date: 2025-07-28
+date: 2026-01-18
 author:
 - name: Andrew Heiss
   affiliations: 
